@@ -1,16 +1,14 @@
 ### Hi there 👋
+I'm a student in SAIT (South Alberta Instituion of Technology), currently learning Software Development<br>
 
-<!--
-**crcmq/crcmq** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm also looking for an intership for summer<br>
 
-Here are some ideas to get you started:
+I have the knowledge of
+* Oracle SQL
+* Java
+* HTML
+* CSS
+* JavaScript
+<br>
+I'm moving forward along the road of web development
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
