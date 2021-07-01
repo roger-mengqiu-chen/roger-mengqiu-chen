@@ -10,5 +10,5 @@ I have the knowledge of:
 * PHP
 <br>
 I'm moving forward along the road of web development.
-Now I'm building my own website. Please check [https://mengqiu.net]
+Now I'm building my own website. Please check https://mengqiu.net
 
