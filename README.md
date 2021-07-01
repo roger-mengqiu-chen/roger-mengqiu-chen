@@ -4,10 +4,11 @@ I'm a student in SAIT (South Alberta Instituion of Technology), currently learni
 I have the knowledge of:
 
 * Java
-* SQL
+* MySQL, PL/SQL
 * JavaScript
 * HTML/CSS
 * PHP
 <br>
-I'm moving forward along the road of web development
+I'm moving forward along the road of web development.
+Now I'm building my own website. Please check [https://mengqiu.net]
 
