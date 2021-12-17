@@ -7,6 +7,7 @@ I have the knowledge of:
 * MySQL, PL/SQL
 * JavaScript
 * HTML/CSS
+* Selenium Testing
 * PHP
 <br>
 I'm moving forward along the road of becoming full-stack web developer.<br>
