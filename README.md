@@ -1,21 +1,24 @@
 ### Hi there 👋
 I'm a student in SAIT (South Alberta Instituion of Technology), currently learning Software Development<br>
+I'm moving forward along the road of becoming full-stack web developer.<br>
 
-I have the knowledge of:
+Languages:
 
 * Java
-* MySQL, PL/SQL
 * JavaScript
+* MySQL, PL/SQL
 * HTML/CSS
-* Selenium Testing
 * PHP
-<br>
 
-My toolset:
+Knowledge:
+* Spring boot
+* RESTfull API
+* Selenium testing
+* Postman API testing
+* JUnit testing
+
+Toolset:
 * IntelliJ
 * Eclipse
 * Netbeans
 * VSCode
-
-
-I'm moving forward along the road of becoming full-stack web developer.<br>
