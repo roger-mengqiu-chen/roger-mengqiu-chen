@@ -19,5 +19,3 @@ My toolset:
 
 
 I'm moving forward along the road of becoming full-stack web developer.<br>
-Now I'm building my own website. Please check https://mengqiu.net and give feedback.
-
