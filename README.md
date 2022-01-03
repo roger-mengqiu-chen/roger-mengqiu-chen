@@ -8,7 +8,6 @@ Languages:
 * JavaScript
 * MySQL, PL/SQL
 * HTML/CSS
-* PHP
 
 Knowledge:
 * Spring boot
