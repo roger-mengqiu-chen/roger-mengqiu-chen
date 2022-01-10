@@ -1,5 +1,5 @@
 ### Hi there 👋
-I'm a student in SAIT (South Alberta Instituion of Technology), currently learning Software Development<br>
+I'm currently learning Software Development<br>
 I'm moving forward along the road of becoming full-stack web developer.<br>
 
 Languages:
