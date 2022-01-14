@@ -11,7 +11,7 @@ Languages:
 
 Knowledge:
 * Spring boot
-* RESTfull API
+* REST API
 * Selenium testing
 * Postman API testing
 * JUnit testing
