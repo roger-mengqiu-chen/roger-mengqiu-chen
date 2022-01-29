@@ -2,22 +2,19 @@
 I'm currently learning Software Development<br>
 I'm moving forward along the road of becoming full-stack web developer.<br>
 
-Languages:
+**Languages:** Java | Javascript
+<br>
 
-* Java
-* JavaScript
-* MySQL, PL/SQL
-* HTML/CSS
+**Framework:** SpringMVC | Spring Boot
+<br>
 
-Knowledge:
-* Spring boot
-* REST API
-* Selenium testing
-* Postman API testing
-* JUnit testing
+**Test:** Selenium | Mockito | JUnit | Postman
+<br>
 
-Toolset:
-* IntelliJ
-* Eclipse
-* Netbeans
-* VSCode
+**Database:** Oracle | MySQL
+<br>
+
+**CMS:** WordPress | Hexo
+<br>
+
+**Toolset:** IntelliJ | Eclipse | Netbeans | VSCode
