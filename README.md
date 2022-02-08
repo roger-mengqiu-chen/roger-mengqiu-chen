@@ -1,7 +1,4 @@
-### Hi there 👋
-I'm currently learning Software Development<br>
-I'm moving forward along the road of becoming full-stack web developer.<br>
-
+Brief:
 **Languages:** Java | Javascript
 <br>
 
