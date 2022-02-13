@@ -3,7 +3,7 @@ Brief:
 **Languages:** Java | Javascript
 <br>
 
-**Framework:** SpringMVC | Spring Boot
+**Framework:** Servlet | SpringMVC | Spring Boot
 <br>
 
 **Test:** Selenium | Mockito | JUnit | Postman
