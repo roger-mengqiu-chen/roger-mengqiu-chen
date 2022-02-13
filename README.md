@@ -1,4 +1,3 @@
-Brief:
 
 **Languages:** Java | Javascript
 <br>
