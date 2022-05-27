@@ -2,10 +2,13 @@
 **Languages:** Java | Javascript
 <br>
 
-**Framework:** Servlet | SpringMVC | Spring Boot | Nodejs
+**Backend:** Servlet | SpringMVC | Spring Boot | Nodejs | Expressjs
 <br>
 
-**Test:** Selenium | Mockito | JUnit | Postman
+**Frontend:** JSP | EJS | Bootstrap
+<br>
+
+**Test:** Selenium | Mockito | JUnit | Postman | Mocha | Chai
 <br>
 
 **Database:** Oracle | MySQL | MongoDB
