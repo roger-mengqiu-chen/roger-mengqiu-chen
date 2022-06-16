@@ -1,20 +1,17 @@
 
-**Languages:** Java | Javascript
+**Languages:** Java | Javascript | HTML5 | CSS3
 <br>
 
-**Backend:** Servlet | SpringMVC | Spring Boot | Nodejs | Expressjs
+**Backend:** SpringMVC | Spring Boot | Nodejs | Expressjs | Servlet
 <br>
 
-**Frontend:** JSP | EJS | Bootstrap
+**Frontend:** React | JSP | EJS | Bootstrap | JQuery
 <br>
 
 **Test:** Selenium | Mockito | JUnit | Postman | Mocha | Chai
 <br>
 
 **Database:** Oracle | MySQL | MongoDB
-<br>
-
-**CMS:** WordPress | Hexo
 <br>
 
 **Toolset:** IntelliJ | Eclipse | Netbeans | VSCode
