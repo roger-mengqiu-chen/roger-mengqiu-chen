@@ -1,1 +1,1 @@
-A software developer at DataDrill Communications Inc. 
+Don't make technology become our jail. 
